@@ -1,3 +1,5 @@
+// Problem 5: Remove Duplicates from an Array
+
 function removeDuplicates(arr) {
   const newArray = [];
   for (let i = 0; i < arr.length; i++) {

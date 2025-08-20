@@ -1,3 +1,5 @@
+// Problem 7: Find Even Numbers in an Array
+
 function findEvenNumbers(arr) {
   const evenNum = [];
   for (let num of arr) {
